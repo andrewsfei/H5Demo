@@ -24,6 +24,11 @@ public class WebViewTools {
             // 放大缩小效果
             // settings.setBuiltInZoomControls(true);
             // settings.setUseWideViewPort(true);
+
+
+            /***
+             * 测试git上传数据。。。
+             */
         }
     }
 
